@@ -19,7 +19,7 @@ chromium-chromedriverのインストール
     pip install beautifulsoup4
 
 ### データの取得
-生放送ページのurlが"https://live.bilibili.com/XXX"だった場合、以下のように使います。
+生放送ページのurlが https://live.bilibili.com/XXX だった場合、以下のように使います。
 
     # 生放送ページへのアクセス
     chat_record = BilibiliChatRecord()
